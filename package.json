@@ -1,0 +1,22 @@
+{
+  "name": "my-electron-app",
+  "version": "1.0.0",
+  "description": "A starter electron app following the example provided in Electron documentation.",
+  "main": "main.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asun975/my-electron-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asun975/my-electron-app/issues"
+  },
+  "homepage": "https://github.com/asun975/my-electron-app#readme",
+  "devDependencies": {
+    "electron": "^34.3.0"
+  }
+}
