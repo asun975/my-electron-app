@@ -4,6 +4,7 @@
   "description": "A starter electron app following the example provided in Electron documentation.",
   "main": "main.js",
   "scripts": {
+    "start": "electron .",
     "test": "test"
   },
   "repository": {
